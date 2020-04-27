@@ -24,11 +24,17 @@ body {
     background-color: #22a6b3;
     border-top-left-radius: 100%;
 }
+.top-left.light {
+    background-color: #7ed6df;
+}
 .top-right {
     width: 100%;
     height: 100%;
     background-color: #be2edd;
     border-top-right-radius: 100%;
+}
+.top-right.light {
+    background-color: #e056fd;
 }
 .bottom-left {
     width: 100%;
@@ -36,11 +42,17 @@ body {
     background-color: #f0932b;
     border-bottom-left-radius: 100%;
 }
+.bottom-left.light {
+    background-color: #ffbe76;
+}
 .bottom-right {
     width: 100%;
     height: 100%;
     background-color: #6ab04c;
     border-bottom-right-radius: 100%;
+}
+.bottom-right.light {
+    background-color: #badc58;
 }
 .btn-start {
     position: absolute;
